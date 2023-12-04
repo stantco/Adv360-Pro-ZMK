@@ -4,6 +4,8 @@
   "layout": "LAYOUT",
   "layer_names": [
     "base",
+    "ctrl_alt",
+    "alt_ctrl",
     "keypad",
     "fn",
     "mod"
